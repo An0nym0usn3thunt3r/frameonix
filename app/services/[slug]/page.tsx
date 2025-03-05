@@ -1,6 +1,5 @@
 import type { Metadata } from "next"
 import { notFound } from "next/navigation"
-import ServiceDetailPage from "@/components/pages/service-detail-page"
 import Footer from "@/components/footer"
 
 type ServiceParams = {
