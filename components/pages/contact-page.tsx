@@ -126,7 +126,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h4 className="text-lg font-medium">Phone</h4>
-                      <p className="text-gray-600">+1 (555) 123-4567</p>
+                      <p className="text-gray-600">+91 95747 81413</p>
                       <p className="text-sm text-gray-500">Monday to Friday, 9am to 6pm</p>
                     </div>
                   </div>
@@ -137,7 +137,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h4 className="text-lg font-medium">Email</h4>
-                      <p className="text-gray-600">hello@creativeagency.com</p>
+                      <p className="text-gray-600">help.frameonix@gmail.com</p>
                       <p className="text-sm text-gray-500">We'll respond as soon as possible</p>
                     </div>
                   </div>
@@ -148,8 +148,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h4 className="text-lg font-medium">Location</h4>
-                      <p className="text-gray-600">123 Creative Street, Design District</p>
-                      <p className="text-gray-600">New York, NY 10001</p>
+                      <p className="text-gray-600">Remote</p>
                     </div>
                   </div>
 
@@ -170,15 +169,22 @@ export default function ContactPage() {
                 <h3 className="mb-4 text-lg font-bold">Follow Us</h3>
                 <div className="flex space-x-4">
                   <a
-                    href="#"
+                    href="https://www.figma.com/@frameonix"
                     className="flex h-10 w-10 items-center justify-center rounded-full bg-gray-200 text-gray-700 transition-colors hover:bg-purple-600 hover:text-white"
                   >
-                    <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="currentColor" viewBox="0 0 24 24">
-                      <path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z" />
-                    </svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 256 256">
+                    <title>Figma</title>
+                    <g>
+                      <path fill="#FF7262" d="M128 32a32 32 0 0 0-32 32v32a32 32 0 0 0 32 32h32V64a32 32 0 0 0-32-32z"/>
+                      <path fill="#1ABCFE" d="M96 96a32 32 0 0 0-32 32v32a32 32 0 0 0 32 32h32V96H96z"/>
+                      <path fill="#A259FF" d="M128 160a32 32 0 0 0-32 32v32a32 32 0 0 0 32 32h32V160H128z"/>
+                      <path fill="#F24E1E" d="M64 160a32 32 0 0 0-32 32v32a32 32 0 0 0 32 32h32V160H64z"/>
+                      <path fill="#0ACF83" d="M128 224a32 32 0 0 0 32-32V96h-32v128z"/>
+                    </g>
+                  </svg>
                   </a>
                   <a
-                    href="#"
+                    href="https://x.com/frameonix"
                     className="flex h-10 w-10 items-center justify-center rounded-full bg-gray-200 text-gray-700 transition-colors hover:bg-purple-600 hover:text-white"
                   >
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="currentColor" viewBox="0 0 24 24">
@@ -186,7 +192,7 @@ export default function ContactPage() {
                     </svg>
                   </a>
                   <a
-                    href="#"
+                    href="https://www.instagram.com/frameonix.studio/"
                     className="flex h-10 w-10 items-center justify-center rounded-full bg-gray-200 text-gray-700 transition-colors hover:bg-purple-600 hover:text-white"
                   >
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="currentColor" viewBox="0 0 24 24">
@@ -194,7 +200,7 @@ export default function ContactPage() {
                     </svg>
                   </a>
                   <a
-                    href="#"
+                    href="https://www.youtube.com/channel/UCvGZuMppq8FDxnIRWBCCfXw"
                     className="flex h-10 w-10 items-center justify-center rounded-full bg-gray-200 text-gray-700 transition-colors hover:bg-purple-600 hover:text-white"
                   >
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="currentColor" viewBox="0 0 24 24">
