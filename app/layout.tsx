@@ -7,7 +7,7 @@ import { Toaster } from "@/components/ui/toaster"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Creative Agency | Transforming Brands with Creativity",
+  title: "Frameonix Studio | Transforming Brands with Creativity",
   description: "Expert graphic design and video editing tailored to elevate your social media presence.",
     generator: 'v0.dev'
 }
