@@ -11,6 +11,15 @@ export const metadata: Metadata = {
   title: "Frameonix Studio | Transforming Brands with Creativity",
   description: "Expert graphic design and video editing tailored to elevate your social media presence.",
   generator: 'v0.dev',
+  icons: {
+    icon: '/logo.ico',
+    shortcut: '/favicon.ico',
+    apple: '/apple-touch-icon.png',
+    other: {
+      rel: 'apple-touch-icon-precomposed',
+      url: '/apple-touch-icon-precomposed.png',
+    },
+  },
   openGraph: {
     title: "Frameonix Studio | Transforming Brands with Creativity",
     description: "Expert graphic design and video editing tailored to elevate your social media presence.",
