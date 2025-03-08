@@ -29,7 +29,7 @@ export default function Hero() {
           playsInline
         >
           <source
-            src="https://videos.pexels.com/video-files/25744121/11904048_2560_1440_25fps.mp4"
+            src="/11904046_1280_720_25fps.mp4"
             type="video/mp4"
           />
           Your browser does not support the video tag.
