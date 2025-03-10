@@ -55,42 +55,6 @@ export default function Footer() {
           </div>
 
           <div>
-            <h3 className="mb-4 text-lg font-bold">Services</h3>
-            <ul className="space-y-2">
-              <li>
-                <Link href="/services/graphic-design" className="text-gray-400 transition-colors hover:text-white">
-                  Graphic Design
-                </Link>
-              </li>
-              <li>
-                <Link href="/services/video-editing" className="text-gray-400 transition-colors hover:text-white">
-                  Video Editing
-                </Link>
-              </li>
-              <li>
-                <Link href="/services/social-media" className="text-gray-400 transition-colors hover:text-white">
-                  Social Media Content
-                </Link>
-              </li>
-              <li>
-                <Link href="/services/ui-ux-design" className="text-gray-400 transition-colors hover:text-white">
-                  UI/UX Design
-                </Link>
-              </li>
-              <li>
-                <Link href="/services/brand-strategy" className="text-gray-400 transition-colors hover:text-white">
-                  Brand Strategy
-                </Link>
-              </li>
-              <li>
-                <Link href="/services/photography" className="text-gray-400 transition-colors hover:text-white">
-                  Photography
-                </Link>
-              </li>
-            </ul>
-          </div>
-
-          <div>
             <h3 className="mb-4 text-lg font-bold">Newsletter</h3>
             <p className="mb-4 text-gray-400">Subscribe to our newsletter to receive updates and creative insights.</p>
             <form className="flex flex-col space-y-2">
