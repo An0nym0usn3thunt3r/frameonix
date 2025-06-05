@@ -45,14 +45,14 @@ export default function WhoWeAre() {
           >
             <h3 className="mb-6 text-2xl font-bold md:text-3xl">Our Story</h3>
             <p className="mb-6 text-lg text-gray-600">
-              Founded in 2025, our creative studio began with a vision of empowering businesses with fresh, innovative ideas. Driven by young minds, we are dedicated to transforming brands through unique and energetic creative solutions.
+              Founded in 2021, our creative studio began with a vision of empowering businesses with fresh, innovative ideas. Driven by young minds, we are dedicated to transforming brands through unique and energetic creative solutions.
             </p>
             <p className="mb-6 text-lg text-gray-600">
               Our approach combines strategic insight with modern creative execution, ensuring that every project delivers a dynamic impact that resonates with today's audience.
             </p>
             <div className="flex flex-wrap gap-4">
               <div className="rounded-lg bg-gray-100 px-6 py-3">
-                <span className="text-3xl font-bold text-purple-600">5+</span>
+                <span className="text-3xl font-bold text-purple-600">35+</span>
                 <p className="text-sm text-gray-600">Projects Launched</p>
               </div>
               <div className="rounded-lg bg-gray-100 px-6 py-3">
@@ -60,7 +60,7 @@ export default function WhoWeAre() {
                 <p className="text-sm text-gray-600">Client Dedication</p>
               </div>
               <div className="rounded-lg bg-gray-100 px-6 py-3">
-                <span className="text-3xl font-bold text-purple-600">2</span>
+                <span className="text-3xl font-bold text-purple-600">12</span>
                 <p className="text-sm text-gray-600">Innovative Ventures</p>
               </div>
             </div>
